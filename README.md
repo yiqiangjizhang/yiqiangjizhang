@@ -64,7 +64,7 @@ Get to know me !:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 
-## **Operating Systems and Tools**
+**Operating Systems and Tools**
 
 <br/>
 
@@ -82,6 +82,7 @@ Get to know me !:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiqiangjizhang&show_icons=true&theme=light&line_height=27" alt="Yi Qiang's github stats"/>
 </a>
 
+<br/>
 <br/>
 
 ### 📺 Latest Youtube Videos
