@@ -92,8 +92,8 @@ Get to know me !:
 
 ### ⚡ Recent Activity
 
-<!--GITHUB:activity-->
-<!--GITHUB:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### 📚 Medium
 
