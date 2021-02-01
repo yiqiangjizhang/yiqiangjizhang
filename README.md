@@ -103,6 +103,8 @@ Get to know me !:
 ### 📚 Medium
 
 <!-- MEDIUM:START -->
+- [Cómo me convertí en Ingeniero Aeroespacial, Youtuber y Escritor (y tú también puedes hacerlo)](https://medium.com/@yiqiangjizhang/c%C3%B3mo-me-convert%C3%AD-en-ingeniero-aeroespacial-youtuber-y-escritor-y-t%C3%BA-tambi%C3%A9n-puedes-hacerlo-d9005004f4c6?source=rss-e0cc132a61b2------2)
+- [How I became an Aerospace Engineer, a Youtuber and a Writer (and you can do it as well)](https://medium.com/@yiqiangjizhang/how-i-became-an-aerospace-engineer-a-youtuber-and-a-writer-and-you-can-do-it-as-well-c72234434195?source=rss-e0cc132a61b2------2)
 <!-- MEDIUM:END -->
 
 ➡️ [more Medium posts...](https://medium.com/feed/@yiqiangjizhang)
