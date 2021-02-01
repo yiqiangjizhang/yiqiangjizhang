@@ -22,9 +22,3 @@ jobs:
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@yiqiangjizhang"
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          comment_tag_name: GITHUB
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
