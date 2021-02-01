@@ -86,8 +86,13 @@ Get to know me !:
 
 ### ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--GITHUB:activity-->
+<!--GITHUB:activity-->
+
+### 📚 Medium
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:START -->
 
 <div align="center">
   
