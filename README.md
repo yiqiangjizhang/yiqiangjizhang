@@ -92,7 +92,7 @@ Get to know me !:
 ### 📚 Medium
 
 <!-- MEDIUM:START -->
-<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 <div align="center">
   
