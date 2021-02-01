@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-Here are some ideas to get you started:
+Get to know me !:
 
 - 🔭 I’m currently working on Aerospace Engineering (Software developer at my spare time)
 - 🌱 I’m currently learning EVERYTHING I CAN!
@@ -41,14 +41,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am an avid learner and want to connect with you, so don't forget to reach me
 
-
 [![Twitter: yiqiangji](https://img.shields.io/twitter/follow/yiqiangji?style=social)](https://twitter.com/yiqiangji)
 [![Linkedin: yiqiangji](https://img.shields.io/badge/-yiqiangji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yi-qiang-ji-zhang-157410148/)](https://www.linkedin.com/in/yi-qiang-ji-zhang-157410148/)
 [![GitHub yiqiangjizhang](https://img.shields.io/github/followers/yiqiangjizhang?label=follow&style=social)](https://github.com/yiqiangjizhang)
 [![website](https://img.shields.io/badge/PortfolioWebsite-yiqiangji.com-2648ff?style=flat-square&logo=google-chrome)](https://yiqiangji.com/)
 
-
-**Languages**  
+**Languages**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -81,14 +79,13 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiqiangjizhang&show_icons=true&theme=light&line_height=27" alt="Yi Qiang's github stats"/>
 </a>
 
+### 📺 Latest Youtube Videos
 
-
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories and following me !
 
 </div>
-
-
-
