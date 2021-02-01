@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Latest Youtube videos workflow
-=======
-name: Latest youtube videos workflow
->>>>>>> b24d6db4427b236431eed0ee3d4a830241ae4187
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
