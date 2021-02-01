@@ -33,8 +33,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Aerospace Engineering (Software developer at my spare time)
-- 🌱 I’m currently learning Python, Javascript and React
-- 👯 I’m looking to collaborate on startups!
+- 🌱 I’m currently learning EVERYTHING I CAN!
+- 👯 I’m looking to Contribute more to Open Source projects!
 - 🤔 I’m looking for help with programming applications and websites
 - 💬 Ask me about tech and engineering questions!
 - 📫 How to reach me: [Twitter - @yiqiangji](https://twitter.com/yiqiangji) , [Youtube - @yiqiangji](https://www.youtube.com/channel/UClLY8hvX7CLnGcq8tjQmIFw) , [Youtube - @hitechxy](https://www.youtube.com/hitechxy)
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-yiqiangji.com-2648ff?style=flat-square&logo=google-chrome)](https://yiqiangji.com/)
 
 
-**Languages and Tools:**  
+**Languages**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -65,12 +65,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 
-**Operating Systems:**
+**Operating Systems and Tools::**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <a href="https://github.com/yiqiangjizhang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiqiangjizhang&theme=light&hide_langs_below=1" />
@@ -78,6 +80,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/yiqiangjizhang">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiqiangjizhang&show_icons=true&theme=light&line_height=27" alt="Yi Qiang's github stats"/>
 </a>
+
+
 
 
 <div align="center">
