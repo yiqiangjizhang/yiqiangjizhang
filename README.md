@@ -84,6 +84,11 @@ Get to know me !:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories and following me !
