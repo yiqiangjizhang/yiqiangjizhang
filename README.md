@@ -84,6 +84,8 @@ Get to know me !:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+➡️ [more videos...](https://youtube.com/codestackr)
+
 ### ⚡ Recent Activity
 
 <!--GITHUB:activity-->
@@ -93,6 +95,8 @@ Get to know me !:
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
+
+➡️ [more Medium posts...](https://medium.com/feed/@yiqiangjizhang)
 
 <div align="center">
   
