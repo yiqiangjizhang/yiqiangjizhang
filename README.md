@@ -46,9 +46,8 @@ Get to know me !:
 [![GitHub yiqiangjizhang](https://img.shields.io/github/followers/yiqiangjizhang?label=follow&style=social)](https://github.com/yiqiangjizhang)
 [![website](https://img.shields.io/badge/PortfolioWebsite-yiqiangji.com-2648ff?style=flat-square&logo=google-chrome)](https://yiqiangji.com/)
 
-## <br/>
-
 **Languages**
+<br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -65,11 +64,9 @@ Get to know me !:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 
-<br/>
-<br/>
----
+## **Operating Systems and Tools**
 
-**Operating Systems and Tools::**
+<br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
@@ -86,8 +83,6 @@ Get to know me !:
 </a>
 
 <br/>
-<br/>
----
 
 ### 📺 Latest Youtube Videos
 
