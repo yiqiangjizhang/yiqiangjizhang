@@ -84,7 +84,7 @@ Get to know me !:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UClLY8hvX7CLnGcq8tjQmIFw)
 
 ### ⚡ Recent Activity
 
