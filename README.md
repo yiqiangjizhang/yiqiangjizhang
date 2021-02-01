@@ -86,6 +86,11 @@ Get to know me !:
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Aprendí PIANO SÓLO para tocar esta CANCIÓN: River Flows in You](https://www.youtube.com/watch?v=4I3VahmRgm0)
+- [Cómo es estudiar DOBLE GRADO en ADE y DERECHO en ESADE? | Entrevista a Estudiante con Ismael Fathy](https://www.youtube.com/watch?v=te3hI3eHtaA)
+- [Cómo es estudiar INGENIERÍA TELEMÁTICA en la Salle? Entrevista a Estudiante con Alba Massa](https://www.youtube.com/watch?v=15yyLP0OgbE)
+- [Cómo ESTUDIAR una INGENIERÍA? (y no morir en el intento) (y tener vida... bueno esto no)](https://www.youtube.com/watch?v=WV5Hj6ZfBC0)
+- [Cómo es estudiar TURISMO y DIRECCIÓN HOTELERA en la UB? Entrevista a Estudiante con Anoushka Das](https://www.youtube.com/watch?v=NQBNWPvHCqg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClLY8hvX7CLnGcq8tjQmIFw)
