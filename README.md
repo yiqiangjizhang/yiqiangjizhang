@@ -66,8 +66,6 @@ Get to know me !:
 
 **Operating Systems and Tools**
 
-<br/>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
@@ -103,10 +101,6 @@ Get to know me !:
 <!-- MEDIUM:END -->
 
 ➡️ [more Medium posts...](https://medium.com/feed/@yiqiangjizhang)
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1197810538)
 
 <div align="center">
   
