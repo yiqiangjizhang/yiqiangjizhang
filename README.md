@@ -99,11 +99,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#330](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/330) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
-2. 🗣 Commented on [#15217](https://github.com/microsoft/vscode-python/issues/15217) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-3. ❗️ Opened issue [#44](https://github.com/OnlyBens/vscode-extension-ideas/issues/44) in [OnlyBens/vscode-extension-ideas](https://github.com/OnlyBens/vscode-extension-ideas)
-4. 🗣 Commented on [#17](https://github.com/OnlyBens/vscode-extension-ideas/issues/17) in [OnlyBens/vscode-extension-ideas](https://github.com/OnlyBens/vscode-extension-ideas)
-5. 🗣 Commented on [#15217](https://github.com/microsoft/vscode-python/issues/15217) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+1. 🗣 Commented on [#330](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/330) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+2. ❗️ Opened issue [#4393](https://github.com/git-lfs/git-lfs/issues/4393) in [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
+3. ❗️ Opened issue [#330](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/330) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+4. 🗣 Commented on [#15217](https://github.com/microsoft/vscode-python/issues/15217) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+5. ❗️ Opened issue [#44](https://github.com/OnlyBens/vscode-extension-ideas/issues/44) in [OnlyBens/vscode-extension-ideas](https://github.com/OnlyBens/vscode-extension-ideas)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
