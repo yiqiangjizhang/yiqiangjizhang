@@ -99,11 +99,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-2. 🗣 Commented on [#6392](https://github.com/microsoft/WSL/issues/6392) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#4393](https://github.com/git-lfs/git-lfs/issues/4393) in [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
-4. 🗣 Commented on [#255](https://github.com/rtyley/bfg-repo-cleaner/issues/255) in [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)
-5. 🗣 Commented on [#330](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/330) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+1. ❗️ Closed issue [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+3. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+4. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+5. 🗣 Commented on [#2518](https://github.com/James-Yu/LaTeX-Workshop/issues/2518) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
