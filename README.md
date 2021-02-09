@@ -99,11 +99,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-2. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. 🗣 Commented on [#2521](https://github.com/James-Yu/LaTeX-Workshop/issues/2521) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. ❗️ Opened issue [#2521](https://github.com/James-Yu/LaTeX-Workshop/issues/2521) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+3. ❗️ Closed issue [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 4. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-5. 🗣 Commented on [#2518](https://github.com/James-Yu/LaTeX-Workshop/issues/2518) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+5. 🗣 Commented on [#2519](https://github.com/James-Yu/LaTeX-Workshop/issues/2519) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
