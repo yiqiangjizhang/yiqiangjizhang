@@ -99,11 +99,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#711](https://github.com/MiKTeX/miktex/issues/711) in [MiKTeX/miktex](https://github.com/MiKTeX/miktex)
-2. 🗣 Commented on [#2522](https://github.com/James-Yu/LaTeX-Workshop/issues/2522) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. ❗️ Opened issue [#711](https://github.com/MiKTeX/miktex/issues/711) in [MiKTeX/miktex](https://github.com/MiKTeX/miktex)
-4. ❗️ Opened issue [#2522](https://github.com/James-Yu/LaTeX-Workshop/issues/2522) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-5. 🗣 Commented on [#2521](https://github.com/James-Yu/LaTeX-Workshop/issues/2521) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. ❗️ Opened issue [#139](https://github.com/davidwernhart/AlDente/issues/139) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
+2. 🗣 Commented on [#711](https://github.com/MiKTeX/miktex/issues/711) in [MiKTeX/miktex](https://github.com/MiKTeX/miktex)
+3. 🗣 Commented on [#2522](https://github.com/James-Yu/LaTeX-Workshop/issues/2522) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+4. ❗️ Opened issue [#711](https://github.com/MiKTeX/miktex/issues/711) in [MiKTeX/miktex](https://github.com/MiKTeX/miktex)
+5. ❗️ Opened issue [#2522](https://github.com/James-Yu/LaTeX-Workshop/issues/2522) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
