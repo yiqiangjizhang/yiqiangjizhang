@@ -101,11 +101,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#8531](https://github.com/open-mpi/ompi/issues/8531) in [open-mpi/ompi](https://github.com/open-mpi/ompi)
 2. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#139](https://github.com/davidwernhart/AlDente/issues/139) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
-4. ❗️ Opened issue [#139](https://github.com/davidwernhart/AlDente/issues/139) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
-5. 🗣 Commented on [#711](https://github.com/MiKTeX/miktex/issues/711) in [MiKTeX/miktex](https://github.com/MiKTeX/miktex)
+3. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
+5. 🗣 Commented on [#139](https://github.com/davidwernhart/AlDente/issues/139) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
