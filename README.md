@@ -101,11 +101,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8531](https://github.com/open-mpi/ompi/issues/8531) in [open-mpi/ompi](https://github.com/open-mpi/ompi)
-2. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#404](https://github.com/MicrosoftDocs/WSL/issues/404) in [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)
+2. 🗣 Commented on [#8531](https://github.com/open-mpi/ompi/issues/8531) in [open-mpi/ompi](https://github.com/open-mpi/ompi)
 3. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
 4. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
-5. 🗣 Commented on [#139](https://github.com/davidwernhart/AlDente/issues/139) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
+5. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
