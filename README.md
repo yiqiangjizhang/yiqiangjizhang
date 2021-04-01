@@ -101,9 +101,9 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#404](https://github.com/MicrosoftDocs/WSL/issues/404) in [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)
-2. 🗣 Commented on [#8531](https://github.com/open-mpi/ompi/issues/8531) in [open-mpi/ompi](https://github.com/open-mpi/ompi)
-3. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. ❗️ Opened issue [#45](https://github.com/sivenchinniah/Pokemanki/issues/45) in [sivenchinniah/Pokemanki](https://github.com/sivenchinniah/Pokemanki)
+2. 🗣 Commented on [#404](https://github.com/MicrosoftDocs/WSL/issues/404) in [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)
+3. 🗣 Commented on [#8531](https://github.com/open-mpi/ompi/issues/8531) in [open-mpi/ompi](https://github.com/open-mpi/ompi)
 4. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
 5. 🗣 Commented on [#3397](https://github.com/microsoft/WSL/issues/3397) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
