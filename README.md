@@ -102,10 +102,10 @@ Get to know me !:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
-2. 🗣 Commented on [#107](https://github.com/glutanimate/review-heatmap/issues/107) in [glutanimate/review-heatmap](https://github.com/glutanimate/review-heatmap)
-3. ❗️ Opened issue [#45](https://github.com/sivenchinniah/Pokemanki/issues/45) in [sivenchinniah/Pokemanki](https://github.com/sivenchinniah/Pokemanki)
-4. 🗣 Commented on [#404](https://github.com/MicrosoftDocs/WSL/issues/404) in [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)
-5. 🗣 Commented on [#8531](https://github.com/open-mpi/ompi/issues/8531) in [open-mpi/ompi](https://github.com/open-mpi/ompi)
+2. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
+3. 🗣 Commented on [#107](https://github.com/glutanimate/review-heatmap/issues/107) in [glutanimate/review-heatmap](https://github.com/glutanimate/review-heatmap)
+4. ❗️ Opened issue [#45](https://github.com/sivenchinniah/Pokemanki/issues/45) in [sivenchinniah/Pokemanki](https://github.com/sivenchinniah/Pokemanki)
+5. 🗣 Commented on [#404](https://github.com/MicrosoftDocs/WSL/issues/404) in [MicrosoftDocs/WSL](https://github.com/MicrosoftDocs/WSL)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
