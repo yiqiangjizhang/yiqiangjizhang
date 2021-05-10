@@ -101,11 +101,11 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
-2. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
+1. 🗣 Commented on [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+2. ❗️ Opened issue [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 3. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
-4. 🗣 Commented on [#107](https://github.com/glutanimate/review-heatmap/issues/107) in [glutanimate/review-heatmap](https://github.com/glutanimate/review-heatmap)
-5. ❗️ Opened issue [#45](https://github.com/sivenchinniah/Pokemanki/issues/45) in [sivenchinniah/Pokemanki](https://github.com/sivenchinniah/Pokemanki)
+4. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
+5. 🗣 Commented on [#107](https://github.com/glutanimate/review-heatmap/issues/107) in [glutanimate/review-heatmap](https://github.com/glutanimate/review-heatmap)
 <!--END_SECTION:activity-->
 
 ### 📚 Medium
