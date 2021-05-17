@@ -101,10 +101,10 @@ Get to know me !:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4930](https://github.com/microsoft/WSL/issues/4930) in [microsoft/WSL](https://github.com/microsoft/WSL)
-2. 🗣 Commented on [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
-3. ❗️ Opened issue [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
-4. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
+1. ❗️ Closed issue [#139](https://github.com/davidwernhart/AlDente/issues/139) in [davidwernhart/AlDente](https://github.com/davidwernhart/AlDente)
+2. 🗣 Commented on [#4930](https://github.com/microsoft/WSL/issues/4930) in [microsoft/WSL](https://github.com/microsoft/WSL)
+3. 🗣 Commented on [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+4. ❗️ Opened issue [#6574](https://github.com/VSCodeVim/Vim/issues/6574) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 5. 🗣 Commented on [#344](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/issues/344) in [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client)
 <!--END_SECTION:activity-->
 
